@@ -1,7 +1,7 @@
 # CLOUDS UNREAL 
-clouds created using volumetric raymarcher material from vdb volme textures
-placed as individual blueprints in unreal 4.26 project
-11 clouds featuring modified material originally by Ryan Brucks and Riley Lewand 
+- clouds created using volumetric raymarcher material from vdb volme textures
+- placed as individual blueprints in unreal 4.26 project
+- 11 clouds featuring modified material originally by Ryan Brucks and Riley Lewand 
 
 ![Clouds_01](https://raw.githubusercontent.com/CorvaeOboro/clouds_unreal/master/Images/Clouds_01.jpg?raw=true "Clouds_01")
 
